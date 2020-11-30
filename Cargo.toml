@@ -1,0 +1,12 @@
+[package]
+name = "ul-test"
+version = "0.1.0"
+authors = ["iMplode nZ <rg@youxplode.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ul-sys = "1.2.1"
+term_size = "0.3.2"
+unicode-segmentation = "1.7.1"
